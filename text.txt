@@ -1,0 +1,9 @@
+node modules= The dependency files of this project are in the library file in the node module
+app - all folder in the app app folder.
+components - all components in the components folder .
+public - all static asset here . like image , icon , loge ect .
+globals css - It is main css inter the project .
+layout - A project can have many layouts.But the entire project will run from the route layout.
+pages- The page inside the app directory root will count as homepage . Each page in Next.js is a React component that is stored in a specific directory called the page directory. 
+folder inside app -  next js 13 are build in routeing  . every folder require a page . 
+
